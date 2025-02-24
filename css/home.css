@@ -4,14 +4,14 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: rgb(10, 10, 10);
+      background-color: #1d1d1b;
       color: white;
       text-align: center;
     }
     
     /* Header-Stil */
     header {
-      background-color:rgb(10, 10, 10);
+      background-color:#1d1d1b;
       color: #fff;
       padding: 2em;
       text-align: center;
