@@ -23,10 +23,11 @@
     a:link, a:visited {
       border-radius: 2em;
       color:#ffd136;
-      padding: 14px 25px;
+      padding: 14px 20px;
       text-align: center;
       text-decoration: none;
       display: inline-block;
+      font-size: 3em;
     }
     
     a:hover, a:active {
@@ -39,6 +40,6 @@
     }
 
     .logo {
-      width:50%;
+      width: 100%;
       height: auto;
     }
